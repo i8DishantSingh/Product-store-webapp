@@ -11,4 +11,7 @@ This web-app conatins:
 - Navigation bar
 - Home page
 - List-new-product page
-- Delete-product page
+
+
+For backend part, I wrote the code myself. It taught me the backend fundamentals such as initializing the server, creating specific endpoints, handling routes, configuring database with server, designing database schemas and so on.  
+For the frontend, I relied on AI assistance because it was a major hurdle to configure Vite, React, ChakraUI and related libraries/frameworks along with thier versions.
